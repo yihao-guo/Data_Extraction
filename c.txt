@@ -1,0 +1,1 @@
+'\n            nodeindex : 1, prepare_time : 52.043066, consensus_time : 52.09279, written_time : 52.095849\n            nodeindex : 2, prepare_time : 52.058639, consensus_time : 52.09727, written_time : 52.099678\n            nodeindex : 3, prepare_time : 52.03545, consensus_time : 52.087122, written_time : 52.087919\n\n'

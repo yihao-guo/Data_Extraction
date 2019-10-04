@@ -1,0 +1,617 @@
+threshold (4,3)
+    transantion sent speed : 20， valid keys : 4725
+           nodeindex : 1,  tps : 19.81,  tx_sum : 4725,   period_sum: 238.572941,  block_sum: 238
+           nodeindex : 2,  tps : 19.81,  tx_sum : 4725,   period_sum: 238.574666,  block_sum: 238
+           nodeindex : 3,  tps : 19.81,  tx_sum : 4725,   period_sum: 238.574302,  block_sum: 238
+           nodeindex : 4,  tps : 19.81,  tx_sum : 4725,   period_sum: 238.574607,  block_sum: 238
+    transantion sent speed : 40， valid keys : 4725
+           nodeindex : 1,  tps : 38.99,  tx_sum : 4725,   period_sum: 121.191725,  block_sum: 121
+           nodeindex : 2,  tps : 38.99,  tx_sum : 4725,   period_sum: 121.192867,  block_sum: 121
+           nodeindex : 3,  tps : 38.99,  tx_sum : 4725,   period_sum: 121.192404,  block_sum: 121
+           nodeindex : 4,  tps : 38.99,  tx_sum : 4725,   period_sum: 121.192838,  block_sum: 121
+    transantion sent speed : 60， valid keys : 4725
+           nodeindex : 1,  tps : 61.70,  tx_sum : 4725,   period_sum: 76.580507,  block_sum: 77
+           nodeindex : 2,  tps : 61.70,  tx_sum : 4725,   period_sum: 76.582116,  block_sum: 77
+           nodeindex : 3,  tps : 61.70,  tx_sum : 4725,   period_sum: 76.581654,  block_sum: 77
+           nodeindex : 4,  tps : 61.70,  tx_sum : 4725,   period_sum: 76.582053,  block_sum: 77
+    transantion sent speed : 80， valid keys : 4725
+           nodeindex : 1,  tps : 80.90,  tx_sum : 4725,   period_sum: 58.406773,  block_sum: 54
+           nodeindex : 2,  tps : 80.88,  tx_sum : 4725,   period_sum: 58.417298,  block_sum: 54
+           nodeindex : 3,  tps : 80.89,  tx_sum : 4725,   period_sum: 58.414743,  block_sum: 54
+           nodeindex : 4,  tps : 80.89,  tx_sum : 4725,   period_sum: 58.415566,  block_sum: 54
+    transantion sent speed : 100， valid keys : 4725
+           nodeindex : 1,  tps : 94.55,  tx_sum : 4725,   period_sum: 49.971770,  block_sum: 46
+           nodeindex : 2,  tps : 94.55,  tx_sum : 4725,   period_sum: 49.973927,  block_sum: 46
+           nodeindex : 3,  tps : 94.55,  tx_sum : 4725,   period_sum: 49.972988,  block_sum: 46
+           nodeindex : 4,  tps : 94.55,  tx_sum : 4725,   period_sum: 49.973472,  block_sum: 46
+    transantion sent speed : 120， valid keys : 4725
+           nodeindex : 1,  tps : 118.96,  tx_sum : 4725,   period_sum: 39.718666,  block_sum: 37
+           nodeindex : 2,  tps : 118.88,  tx_sum : 4725,   period_sum: 39.746777,  block_sum: 37
+           nodeindex : 3,  tps : 118.88,  tx_sum : 4725,   period_sum: 39.745171,  block_sum: 37
+           nodeindex : 4,  tps : 118.87,  tx_sum : 4725,   period_sum: 39.750344,  block_sum: 37
+
+    transantion sent speed : 140， valid keys : 4725
+           nodeindex : 1,  tps : 135.32,  tx_sum : 4725,   period_sum: 34.918179,  block_sum: 21
+           nodeindex : 2,  tps : 135.31,  tx_sum : 4725,   period_sum: 34.920175,  block_sum: 21
+           nodeindex : 3,  tps : 135.31,  tx_sum : 4725,   period_sum: 34.919707,  block_sum: 21
+           nodeindex : 4,  tps : 135.31,  tx_sum : 4725,   period_sum: 34.920865,  block_sum: 21
+
+    transantion sent speed : 160， valid keys : 4725
+           nodeindex : 1,  tps : 139.60,  tx_sum : 4725,   period_sum: 33.846549,  block_sum: 10
+           nodeindex : 2,  tps : 134.72,  tx_sum : 4725,   period_sum: 35.073044,  block_sum: 10
+           nodeindex : 3,  tps : 135.65,  tx_sum : 4725,   period_sum: 34.831436,  block_sum: 10
+           nodeindex : 4,  tps : 135.58,  tx_sum : 4725,   period_sum: 34.850068,  block_sum: 10
+
+    transantion sent speed : 180， valid keys : 4725
+           nodeindex : 1,  tps : 141.40,  tx_sum : 4725,   period_sum: 33.416162,  block_sum: 8
+           nodeindex : 2,  tps : 137.55,  tx_sum : 4725,   period_sum: 34.351621,  block_sum: 8
+           nodeindex : 3,  tps : 137.57,  tx_sum : 4725,   period_sum: 34.347084,  block_sum: 8
+           nodeindex : 4,  tps : 136.97,  tx_sum : 4725,   period_sum: 34.497560,  block_sum: 8
+
+
+threshold (13,9)
+    transantion sent speed : 20， valid keys : 4725
+           nodeindex : 1,  tps : 19.39,  tx_sum : 4725,   period_sum: 243.653685,  block_sum: 136
+           nodeindex : 2,  tps : 18.56,  tx_sum : 4524,   period_sum: 243.702982,  block_sum: 128
+           nodeindex : 3,  tps : 18.69,  tx_sum : 4555,   period_sum: 243.700469,  block_sum: 127
+           nodeindex : 4,  tps : 19.39,  tx_sum : 4725,   period_sum: 243.666814,  block_sum: 136
+           nodeindex : 5,  tps : 19.39,  tx_sum : 4725,   period_sum: 243.666368,  block_sum: 136
+           nodeindex : 6,  tps : 19.39,  tx_sum : 4725,   period_sum: 243.669525,  block_sum: 136
+           nodeindex : 7,  tps : 18.75,  tx_sum : 4569,   period_sum: 243.698763,  block_sum: 128
+           nodeindex : 8,  tps : 18.75,  tx_sum : 4569,   period_sum: 243.651018,  block_sum: 128
+           nodeindex : 9,  tps : 19.39,  tx_sum : 4725,   period_sum: 243.667692,  block_sum: 136
+           nodeindex : 10,  tps : 19.21,  tx_sum : 4680,   period_sum: 243.671656,  block_sum: 134
+           nodeindex : 11,  tps : 19.39,  tx_sum : 4725,   period_sum: 243.657685,  block_sum: 136
+           nodeindex : 12,  tps : 19.05,  tx_sum : 4642,   period_sum: 243.656527,  block_sum: 132
+           nodeindex : 13,  tps : 19.09,  tx_sum : 1474,   period_sum: 77.216607,  block_sum: 46
+    transantion sent speed : 40， valid keys : 4725
+           nodeindex : 1,  tps : 38.61,  tx_sum : 4725,   period_sum: 122.387012,  block_sum: 71
+           nodeindex : 2,  tps : 36.94,  tx_sum : 4174,   period_sum: 112.979364,  block_sum: 58
+           nodeindex : 4,  tps : 38.33,  tx_sum : 4691,   period_sum: 122.398406,  block_sum: 70
+           nodeindex : 5,  tps : 37.88,  tx_sum : 4636,   period_sum: 122.399616,  block_sum: 68
+           nodeindex : 6,  tps : 38.37,  tx_sum : 4696,   period_sum: 122.403228,  block_sum: 70
+           nodeindex : 7,  tps : 37.59,  tx_sum : 4244,   period_sum: 112.893794,  block_sum: 60
+           nodeindex : 9,  tps : 38.60,  tx_sum : 4725,   period_sum: 122.397694,  block_sum: 71
+           nodeindex : 10,  tps : 37.92,  tx_sum : 4641,   period_sum: 122.400555,  block_sum: 68
+           nodeindex : 11,  tps : 38.61,  tx_sum : 4725,   period_sum: 122.393258,  block_sum: 71
+    transantion sent speed : 60， valid keys : 4725
+           nodeindex : 1,  tps : 57.32,  tx_sum : 4725,   period_sum: 82.433151,  block_sum: 40
+           nodeindex : 2,  tps : 56.64,  tx_sum : 832,   period_sum: 14.689672,  block_sum: 7
+           nodeindex : 3,  tps : 57.02,  tx_sum : 3312,   period_sum: 58.083238,  block_sum: 27
+           nodeindex : 4,  tps : 57.29,  tx_sum : 4725,   period_sum: 82.471373,  block_sum: 40
+           nodeindex : 5,  tps : 57.26,  tx_sum : 4725,   period_sum: 82.514514,  block_sum: 40
+           nodeindex : 6,  tps : 57.29,  tx_sum : 4725,   period_sum: 82.479387,  block_sum: 40
+           nodeindex : 7,  tps : 56.88,  tx_sum : 4691,   period_sum: 82.476888,  block_sum: 39
+           nodeindex : 8,  tps : 56.25,  tx_sum : 4640,   period_sum: 82.482056,  block_sum: 38
+           nodeindex : 9,  tps : 57.29,  tx_sum : 4725,   period_sum: 82.476116,  block_sum: 40
+           nodeindex : 10,  tps : 57.27,  tx_sum : 4725,   period_sum: 82.504971,  block_sum: 40
+           nodeindex : 11,  tps : 57.29,  tx_sum : 4725,   period_sum: 82.468954,  block_sum: 40
+           nodeindex : 12,  tps : 57.12,  tx_sum : 4725,   period_sum: 82.720616,  block_sum: 40
+           nodeindex : 13,  tps : 57.01,  tx_sum : 4701,   period_sum: 82.464610,  block_sum: 39
+    transantion sent speed : 80， valid keys : 4725
+           nodeindex : 1,  tps : 75.28,  tx_sum : 4725,   period_sum: 62.765127,  block_sum: 25
+           nodeindex : 4,  tps : 75.25,  tx_sum : 4725,   period_sum: 62.792299,  block_sum: 25
+           nodeindex : 5,  tps : 75.26,  tx_sum : 4725,   period_sum: 62.783006,  block_sum: 25
+           nodeindex : 6,  tps : 75.25,  tx_sum : 4725,   period_sum: 62.788035,  block_sum: 25
+           nodeindex : 8,  tps : 59.71,  tx_sum : 2393,   period_sum: 40.080329,  block_sum: 15
+           nodeindex : 9,  tps : 75.25,  tx_sum : 4725,   period_sum: 62.794625,  block_sum: 25
+           nodeindex : 10,  tps : 75.27,  tx_sum : 4725,   period_sum: 62.774293,  block_sum: 25
+           nodeindex : 11,  tps : 75.26,  tx_sum : 4725,   period_sum: 62.782821,  block_sum: 25
+    transantion sent speed : 100， valid keys : 4725
+           nodeindex : 1,  tps : 86.02,  tx_sum : 4725,   period_sum: 54.926751,  block_sum: 19
+           nodeindex : 2,  tps : 69.21,  tx_sum : 1761,   period_sum: 25.444787,  block_sum: 8
+           nodeindex : 4,  tps : 84.56,  tx_sum : 4725,   period_sum: 55.876711,  block_sum: 19
+           nodeindex : 6,  tps : 85.72,  tx_sum : 4725,   period_sum: 55.122659,  block_sum: 19
+           nodeindex : 7,  tps : 50.02,  tx_sum : 1797,   period_sum: 35.923622,  block_sum: 9
+           nodeindex : 8,  tps : 64.48,  tx_sum : 1569,   period_sum: 24.333626,  block_sum: 7
+           nodeindex : 9,  tps : 84.45,  tx_sum : 4725,   period_sum: 55.948394,  block_sum: 19
+           nodeindex : 10,  tps : 77.07,  tx_sum : 4579,   period_sum: 59.413885,  block_sum: 18
+           nodeindex : 11,  tps : 85.71,  tx_sum : 4725,   period_sum: 55.125513,  block_sum: 19
+    transantion sent speed : 120， valid keys : 4725
+           nodeindex : 1,  tps : 88.69,  tx_sum : 4725,   period_sum: 53.276441,  block_sum: 13
+           nodeindex : 2,  tps : 72.88,  tx_sum : 4725,   period_sum: 64.835919,  block_sum: 13
+           nodeindex : 3,  tps : 68.73,  tx_sum : 4725,   period_sum: 68.751394,  block_sum: 13
+           nodeindex : 4,  tps : 88.60,  tx_sum : 4725,   period_sum: 53.327482,  block_sum: 13
+           nodeindex : 5,  tps : 66.83,  tx_sum : 3940,   period_sum: 58.952234,  block_sum: 11
+           nodeindex : 6,  tps : 88.56,  tx_sum : 4725,   period_sum: 53.353636,  block_sum: 13
+           nodeindex : 8,  tps : 60.69,  tx_sum : 4350,   period_sum: 71.675923,  block_sum: 12
+           nodeindex : 9,  tps : 88.61,  tx_sum : 4725,   period_sum: 53.324826,  block_sum: 13
+           nodeindex : 10,  tps : 72.42,  tx_sum : 4190,   period_sum: 57.860756,  block_sum: 11
+           nodeindex : 11,  tps : 88.59,  tx_sum : 4725,   period_sum: 53.332802,  block_sum: 13
+           nodeindex : 12,  tps : 63.62,  tx_sum : 433,   period_sum: 6.805940,  block_sum: 2
+    transantion sent speed : 140， valid keys : 4725
+           nodeindex : 1,  tps : 83.28,  tx_sum : 4725,   period_sum: 56.737375,  block_sum: 15
+           nodeindex : 3,  tps : 49.49,  tx_sum : 3429,   period_sum: 69.279853,  block_sum: 11
+           nodeindex : 4,  tps : 83.20,  tx_sum : 4725,   period_sum: 56.791421,  block_sum: 15
+           nodeindex : 6,  tps : 78.93,  tx_sum : 4482,   period_sum: 56.781061,  block_sum: 14
+           nodeindex : 8,  tps : 43.12,  tx_sum : 3101,   period_sum: 71.918801,  block_sum: 10
+           nodeindex : 9,  tps : 83.19,  tx_sum : 4725,   period_sum: 56.799326,  block_sum: 15
+           nodeindex : 11,  tps : 83.23,  tx_sum : 4725,   period_sum: 56.767033,  block_sum: 15
+           nodeindex : 12,  tps : 64.89,  tx_sum : 2192,   period_sum: 33.781711,  block_sum: 8
+           nodeindex : 13,  tps : 60.86,  tx_sum : 4482,   period_sum: 73.649068,  block_sum: 14
+
+
+
+threshold (22,15)
+    transantion sent speed : 20， valid keys : 4725
+           nodeindex : 1,  tps : 19.01,  tx_sum : 4725,   period_sum: 248.578765,  block_sum: 87
+           nodeindex : 2,  tps : 18.62,  tx_sum : 4628,   period_sum: 248.571028,  block_sum: 84
+           nodeindex : 3,  tps : 18.87,  tx_sum : 4691,   period_sum: 248.592993,  block_sum: 85
+           nodeindex : 4,  tps : 18.82,  tx_sum : 4677,   period_sum: 248.569376,  block_sum: 85
+           nodeindex : 5,  tps : 18.77,  tx_sum : 4666,   period_sum: 248.565339,  block_sum: 84
+           nodeindex : 6,  tps : 18.98,  tx_sum : 4717,   period_sum: 248.589484,  block_sum: 86
+           nodeindex : 7,  tps : 18.87,  tx_sum : 4692,   period_sum: 248.607724,  block_sum: 85
+           nodeindex : 8,  tps : 18.74,  tx_sum : 4659,   period_sum: 248.584614,  block_sum: 85
+           nodeindex : 9,  tps : 18.76,  tx_sum : 4663,   period_sum: 248.587429,  block_sum: 85
+           nodeindex : 10,  tps : 18.87,  tx_sum : 4692,   period_sum: 248.605446,  block_sum: 85
+           nodeindex : 11,  tps : 18.73,  tx_sum : 4655,   period_sum: 248.585747,  block_sum: 84
+           nodeindex : 12,  tps : 18.67,  tx_sum : 4640,   period_sum: 248.593330,  block_sum: 84
+           nodeindex : 13,  tps : 18.85,  tx_sum : 4685,   period_sum: 248.600358,  block_sum: 86
+           nodeindex : 14,  tps : 18.87,  tx_sum : 4691,   period_sum: 248.599669,  block_sum: 85
+           nodeindex : 15,  tps : 18.87,  tx_sum : 4692,   period_sum: 248.591289,  block_sum: 85
+           nodeindex : 16,  tps : 18.71,  tx_sum : 4652,   period_sum: 248.599658,  block_sum: 84
+           nodeindex : 17,  tps : 23.99,  tx_sum : 221,   period_sum: 9.210405,  block_sum: 4
+           nodeindex : 18,  tps : 18.91,  tx_sum : 4700,   period_sum: 248.588300,  block_sum: 86
+           nodeindex : 19,  tps : 18.91,  tx_sum : 4702,   period_sum: 248.606198,  block_sum: 86
+           nodeindex : 20,  tps : 18.91,  tx_sum : 4702,   period_sum: 248.602472,  block_sum: 86
+           nodeindex : 21,  tps : 18.97,  tx_sum : 4717,   period_sum: 248.595054,  block_sum: 86
+           nodeindex : 22,  tps : 18.87,  tx_sum : 4692,   period_sum: 248.622741,  block_sum: 85
+    transantion sent speed : 40， valid keys : 4725
+           nodeindex : 1,  tps : 36.26,  tx_sum : 4725,   period_sum: 130.313151,  block_sum: 39
+           nodeindex : 2,  tps : 34.56,  tx_sum : 4514,   period_sum: 130.602010,  block_sum: 36
+           nodeindex : 3,  tps : 36.23,  tx_sum : 4725,   period_sum: 130.433847,  block_sum: 39
+           nodeindex : 4,  tps : 36.08,  tx_sum : 4725,   period_sum: 130.974783,  block_sum: 39
+           nodeindex : 6,  tps : 35.82,  tx_sum : 4686,   period_sum: 130.823698,  block_sum: 38
+           nodeindex : 7,  tps : 36.02,  tx_sum : 4698,   period_sum: 130.435455,  block_sum: 38
+           nodeindex : 8,  tps : 36.18,  tx_sum : 4725,   period_sum: 130.607561,  block_sum: 39
+           nodeindex : 9,  tps : 36.18,  tx_sum : 4725,   period_sum: 130.596846,  block_sum: 39
+           nodeindex : 10,  tps : 36.23,  tx_sum : 4725,   period_sum: 130.430285,  block_sum: 39
+           nodeindex : 11,  tps : 36.12,  tx_sum : 4725,   period_sum: 130.806136,  block_sum: 39
+           nodeindex : 12,  tps : 35.03,  tx_sum : 2766,   period_sum: 78.949978,  block_sum: 25
+           nodeindex : 13,  tps : 36.12,  tx_sum : 4725,   period_sum: 130.825870,  block_sum: 39
+           nodeindex : 14,  tps : 36.12,  tx_sum : 4725,   period_sum: 130.803484,  block_sum: 39
+           nodeindex : 15,  tps : 36.10,  tx_sum : 4725,   period_sum: 130.895416,  block_sum: 39
+           nodeindex : 16,  tps : 36.12,  tx_sum : 4725,   period_sum: 130.815235,  block_sum: 39
+           nodeindex : 17,  tps : 35.60,  tx_sum : 4659,   period_sum: 130.868989,  block_sum: 37
+           nodeindex : 18,  tps : 36.08,  tx_sum : 4725,   period_sum: 130.958525,  block_sum: 39
+           nodeindex : 19,  tps : 36.24,  tx_sum : 4725,   period_sum: 130.392813,  block_sum: 39
+           nodeindex : 20,  tps : 35.88,  tx_sum : 4698,   period_sum: 130.940040,  block_sum: 38
+           nodeindex : 21,  tps : 36.11,  tx_sum : 4725,   period_sum: 130.851287,  block_sum: 39
+           nodeindex : 22,  tps : 36.09,  tx_sum : 4725,   period_sum: 130.925380,  block_sum: 39
+    transantion sent speed : 60， valid keys : 4725
+           nodeindex : 1,  tps : 45.18,  tx_sum : 3111,   period_sum: 68.850643,  block_sum: 18
+           nodeindex : 2,  tps : 40.63,  tx_sum : 3081,   period_sum: 75.839544,  block_sum: 17
+           nodeindex : 3,  tps : 41.70,  tx_sum : 4695,   period_sum: 112.587881,  block_sum: 29
+           nodeindex : 4,  tps : 44.99,  tx_sum : 3111,   period_sum: 69.148786,  block_sum: 18
+           nodeindex : 5,  tps : 42.16,  tx_sum : 3111,   period_sum: 73.797023,  block_sum: 18
+           nodeindex : 6,  tps : 43.47,  tx_sum : 3111,   period_sum: 71.558404,  block_sum: 18
+           nodeindex : 7,  tps : 41.12,  tx_sum : 3111,   period_sum: 75.648999,  block_sum: 18
+           nodeindex : 8,  tps : 44.79,  tx_sum : 3111,   period_sum: 69.451572,  block_sum: 18
+           nodeindex : 9,  tps : 41.57,  tx_sum : 4695,   period_sum: 112.937133,  block_sum: 29
+           nodeindex : 10,  tps : 41.68,  tx_sum : 4695,   period_sum: 112.645640,  block_sum: 29
+           nodeindex : 11,  tps : 45.17,  tx_sum : 3111,   period_sum: 68.872986,  block_sum: 18
+           nodeindex : 12,  tps : 38.27,  tx_sum : 4305,   period_sum: 112.500511,  block_sum: 24
+           nodeindex : 13,  tps : 41.57,  tx_sum : 4695,   period_sum: 112.934896,  block_sum: 29
+           nodeindex : 14,  tps : 41.61,  tx_sum : 4695,   period_sum: 112.830052,  block_sum: 29
+           nodeindex : 15,  tps : 43.37,  tx_sum : 3111,   period_sum: 71.723622,  block_sum: 18
+           nodeindex : 16,  tps : 43.64,  tx_sum : 3111,   period_sum: 71.286946,  block_sum: 18
+           nodeindex : 17,  tps : 36.67,  tx_sum : 2951,   period_sum: 80.477641,  block_sum: 17
+           nodeindex : 18,  tps : 45.19,  tx_sum : 3111,   period_sum: 68.848979,  block_sum: 18
+           nodeindex : 19,  tps : 45.18,  tx_sum : 3111,   period_sum: 68.863604,  block_sum: 18
+           nodeindex : 20,  tps : 41.70,  tx_sum : 4695,   period_sum: 112.583970,  block_sum: 29
+           nodeindex : 21,  tps : 41.63,  tx_sum : 4695,   period_sum: 112.769799,  block_sum: 29
+           nodeindex : 22,  tps : 43.54,  tx_sum : 3111,   period_sum: 71.452995,  block_sum: 18
+    transantion sent speed : 80， valid keys : 4725
+           nodeindex : 1,  tps : 44.70,  tx_sum : 4725,   period_sum: 105.709687,  block_sum: 28
+           nodeindex : 3,  tps : 44.23,  tx_sum : 4725,   period_sum: 106.838454,  block_sum: 28
+           nodeindex : 4,  tps : 44.59,  tx_sum : 4725,   period_sum: 105.959807,  block_sum: 28
+           nodeindex : 5,  tps : 44.13,  tx_sum : 4688,   period_sum: 106.228581,  block_sum: 27
+           nodeindex : 6,  tps : 44.08,  tx_sum : 4700,   period_sum: 106.619059,  block_sum: 27
+           nodeindex : 7,  tps : 30.92,  tx_sum : 3796,   period_sum: 122.758874,  block_sum: 22
+           nodeindex : 8,  tps : 44.23,  tx_sum : 4725,   period_sum: 106.817919,  block_sum: 28
+           nodeindex : 9,  tps : 44.70,  tx_sum : 4725,   period_sum: 105.706047,  block_sum: 28
+           nodeindex : 10,  tps : 43.75,  tx_sum : 4688,   period_sum: 107.147158,  block_sum: 27
+           nodeindex : 11,  tps : 44.46,  tx_sum : 4700,   period_sum: 105.721723,  block_sum: 27
+           nodeindex : 13,  tps : 44.41,  tx_sum : 4725,   period_sum: 106.385196,  block_sum: 28
+           nodeindex : 14,  tps : 43.99,  tx_sum : 4700,   period_sum: 106.837167,  block_sum: 27
+           nodeindex : 15,  tps : 44.12,  tx_sum : 4663,   period_sum: 105.699635,  block_sum: 26
+           nodeindex : 16,  tps : 44.15,  tx_sum : 4688,   period_sum: 106.181384,  block_sum: 27
+           nodeindex : 18,  tps : 44.37,  tx_sum : 4700,   period_sum: 105.935928,  block_sum: 27
+           nodeindex : 19,  tps : 44.30,  tx_sum : 4725,   period_sum: 106.648933,  block_sum: 28
+           nodeindex : 20,  tps : 44.05,  tx_sum : 4700,   period_sum: 106.702385,  block_sum: 27
+           nodeindex : 21,  tps : 44.08,  tx_sum : 4700,   period_sum: 106.625333,  block_sum: 27
+           nodeindex : 22,  tps : 30.39,  tx_sum : 3157,   period_sum: 103.879708,  block_sum: 17
+    transantion sent speed : 100， valid keys : 4725
+           nodeindex : 1,  tps : 52.39,  tx_sum : 4125,   period_sum: 78.741025,  block_sum: 18
+           nodeindex : 2,  tps : 42.51,  tx_sum : 3639,   period_sum: 85.609483,  block_sum: 13
+           nodeindex : 3,  tps : 38.70,  tx_sum : 3538,   period_sum: 91.419174,  block_sum: 15
+           nodeindex : 4,  tps : 44.07,  tx_sum : 4199,   period_sum: 95.269554,  block_sum: 16
+           nodeindex : 5,  tps : 52.40,  tx_sum : 4125,   period_sum: 78.724011,  block_sum: 18
+           nodeindex : 6,  tps : 51.02,  tx_sum : 4693,   period_sum: 91.984524,  block_sum: 20
+           nodeindex : 7,  tps : 50.71,  tx_sum : 4693,   period_sum: 92.547721,  block_sum: 20
+           nodeindex : 8,  tps : 34.70,  tx_sum : 3209,   period_sum: 92.469197,  block_sum: 13
+           nodeindex : 9,  tps : 47.66,  tx_sum : 4557,   period_sum: 95.606131,  block_sum: 18
+           nodeindex : 10,  tps : 48.74,  tx_sum : 4535,   period_sum: 93.052138,  block_sum: 18
+           nodeindex : 11,  tps : 52.39,  tx_sum : 4125,   period_sum: 78.737791,  block_sum: 18
+           nodeindex : 12,  tps : 51.63,  tx_sum : 4078,   period_sum: 78.990208,  block_sum: 17
+           nodeindex : 13,  tps : 52.33,  tx_sum : 4125,   period_sum: 78.834035,  block_sum: 18
+           nodeindex : 14,  tps : 50.19,  tx_sum : 4646,   period_sum: 92.572128,  block_sum: 19
+           nodeindex : 15,  tps : 39.62,  tx_sum : 3717,   period_sum: 93.815155,  block_sum: 15
+           nodeindex : 16,  tps : 50.60,  tx_sum : 4693,   period_sum: 92.746778,  block_sum: 20
+           nodeindex : 17,  tps : 51.76,  tx_sum : 4125,   period_sum: 79.697409,  block_sum: 18
+           nodeindex : 18,  tps : 50.18,  tx_sum : 4693,   period_sum: 93.524815,  block_sum: 20
+           nodeindex : 19,  tps : 52.39,  tx_sum : 4125,   period_sum: 78.742334,  block_sum: 18
+           nodeindex : 20,  tps : 51.04,  tx_sum : 4125,   period_sum: 80.815808,  block_sum: 18
+    transantion sent speed : 120， valid keys : 4725
+           nodeindex : 1,  tps : 49.27,  tx_sum : 4563,   period_sum: 92.607299,  block_sum: 17
+           nodeindex : 2,  tps : 38.27,  tx_sum : 4076,   period_sum: 106.512010,  block_sum: 14
+           nodeindex : 3,  tps : 47.59,  tx_sum : 4563,   period_sum: 95.887949,  block_sum: 17
+           nodeindex : 4,  tps : 49.22,  tx_sum : 4563,   period_sum: 92.699344,  block_sum: 17
+           nodeindex : 5,  tps : 42.72,  tx_sum : 4406,   period_sum: 103.141021,  block_sum: 16
+           nodeindex : 6,  tps : 47.28,  tx_sum : 4563,   period_sum: 96.517617,  block_sum: 17
+           nodeindex : 8,  tps : 47.70,  tx_sum : 4563,   period_sum: 95.656111,  block_sum: 17
+           nodeindex : 9,  tps : 47.74,  tx_sum : 4563,   period_sum: 95.572734,  block_sum: 17
+           nodeindex : 10,  tps : 40.74,  tx_sum : 4188,   period_sum: 102.791966,  block_sum: 15
+           nodeindex : 11,  tps : 47.56,  tx_sum : 4563,   period_sum: 95.951712,  block_sum: 17
+           nodeindex : 12,  tps : 35.66,  tx_sum : 3932,   period_sum: 110.251048,  block_sum: 14
+           nodeindex : 13,  tps : 49.22,  tx_sum : 4563,   period_sum: 92.705551,  block_sum: 17
+           nodeindex : 14,  tps : 48.76,  tx_sum : 4563,   period_sum: 93.579481,  block_sum: 17
+           nodeindex : 15,  tps : 39.74,  tx_sum : 4188,   period_sum: 105.392737,  block_sum: 15
+           nodeindex : 16,  tps : 47.35,  tx_sum : 4563,   period_sum: 96.376446,  block_sum: 17
+           nodeindex : 17,  tps : 41.51,  tx_sum : 484,   period_sum: 11.658650,  block_sum: 2
+           nodeindex : 18,  tps : 47.46,  tx_sum : 4563,   period_sum: 96.140065,  block_sum: 17
+           nodeindex : 19,  tps : 47.85,  tx_sum : 4563,   period_sum: 95.351020,  block_sum: 17
+           nodeindex : 20,  tps : 37.64,  tx_sum : 4011,   period_sum: 106.556442,  block_sum: 15
+           nodeindex : 21,  tps : 47.17,  tx_sum : 4563,   period_sum: 96.732786,  block_sum: 17
+           nodeindex : 22,  tps : 35.55,  tx_sum : 3981,   period_sum: 111.986168,  block_sum: 15
+    transantion sent speed : 140， valid keys : 4725
+           nodeindex : 1,  tps : 48.14,  tx_sum : 4725,   period_sum: 98.161138,  block_sum: 16
+           nodeindex : 2,  tps : 34.24,  tx_sum : 1813,   period_sum: 52.955188,  block_sum: 5
+           nodeindex : 3,  tps : 48.13,  tx_sum : 4725,   period_sum: 98.172349,  block_sum: 16
+           nodeindex : 4,  tps : 48.13,  tx_sum : 4725,   period_sum: 98.163839,  block_sum: 16
+           nodeindex : 6,  tps : 48.13,  tx_sum : 4725,   period_sum: 98.177503,  block_sum: 16
+           nodeindex : 7,  tps : 24.69,  tx_sum : 2711,   period_sum: 109.819341,  block_sum: 7
+           nodeindex : 8,  tps : 48.13,  tx_sum : 4725,   period_sum: 98.168003,  block_sum: 16
+           nodeindex : 9,  tps : 48.13,  tx_sum : 4725,   period_sum: 98.172333,  block_sum: 16
+           nodeindex : 10,  tps : 38.47,  tx_sum : 4085,   period_sum: 106.183094,  block_sum: 12
+           nodeindex : 11,  tps : 48.14,  tx_sum : 4725,   period_sum: 98.160488,  block_sum: 16
+           nodeindex : 13,  tps : 45.82,  tx_sum : 4498,   period_sum: 98.165760,  block_sum: 15
+           nodeindex : 14,  tps : 48.14,  tx_sum : 4725,   period_sum: 98.158338,  block_sum: 16
+           nodeindex : 16,  tps : 48.12,  tx_sum : 4725,   period_sum: 98.191566,  block_sum: 16
+           nodeindex : 18,  tps : 48.13,  tx_sum : 4725,   period_sum: 98.163081,  block_sum: 16
+           nodeindex : 19,  tps : 48.13,  tx_sum : 4725,   period_sum: 98.175298,  block_sum: 16
+           nodeindex : 21,  tps : 48.13,  tx_sum : 4725,   period_sum: 98.180631,  block_sum: 16
+
+
+
+threshold (31,21)
+    transantion sent speed : 20， valid keys : 4725
+           nodeindex : 1,  tps : 18.71,  tx_sum : 4725,   period_sum: 252.596531,  block_sum: 60
+           nodeindex : 2,  tps : 18.60,  tx_sum : 4706,   period_sum: 252.943756,  block_sum: 59
+           nodeindex : 3,  tps : 18.66,  tx_sum : 4714,   period_sum: 252.692889,  block_sum: 59
+           nodeindex : 4,  tps : 18.62,  tx_sum : 4706,   period_sum: 252.734427,  block_sum: 59
+           nodeindex : 5,  tps : 18.53,  tx_sum : 3833,   period_sum: 206.834393,  block_sum: 47
+           nodeindex : 6,  tps : 18.38,  tx_sum : 4653,   period_sum: 253.134391,  block_sum: 57
+           nodeindex : 7,  tps : 18.54,  tx_sum : 4689,   period_sum: 252.964843,  block_sum: 58
+           nodeindex : 8,  tps : 18.61,  tx_sum : 4703,   period_sum: 252.776847,  block_sum: 59
+           nodeindex : 9,  tps : 18.52,  tx_sum : 4684,   period_sum: 252.850812,  block_sum: 58
+           nodeindex : 10,  tps : 18.62,  tx_sum : 4709,   period_sum: 252.928452,  block_sum: 59
+           nodeindex : 11,  tps : 18.48,  tx_sum : 4673,   period_sum: 252.911952,  block_sum: 57
+           nodeindex : 14,  tps : 18.50,  tx_sum : 4683,   period_sum: 253.096682,  block_sum: 58
+           nodeindex : 15,  tps : 18.33,  tx_sum : 4638,   period_sum: 252.983660,  block_sum: 57
+           nodeindex : 16,  tps : 18.53,  tx_sum : 4686,   period_sum: 252.915702,  block_sum: 58
+           nodeindex : 17,  tps : 18.45,  tx_sum : 4664,   period_sum: 252.744839,  block_sum: 57
+           nodeindex : 18,  tps : 18.62,  tx_sum : 4709,   period_sum: 252.862665,  block_sum: 59
+           nodeindex : 19,  tps : 18.61,  tx_sum : 4705,   period_sum: 252.840639,  block_sum: 59
+           nodeindex : 20,  tps : 18.51,  tx_sum : 4681,   period_sum: 252.907861,  block_sum: 57
+           nodeindex : 21,  tps : 18.48,  tx_sum : 4673,   period_sum: 252.812768,  block_sum: 57
+           nodeindex : 23,  tps : 18.60,  tx_sum : 4703,   period_sum: 252.853713,  block_sum: 59
+           nodeindex : 24,  tps : 18.55,  tx_sum : 4692,   period_sum: 252.995348,  block_sum: 58
+           nodeindex : 25,  tps : 17.38,  tx_sum : 439,   period_sum: 25.258775,  block_sum: 5
+           nodeindex : 26,  tps : 18.45,  tx_sum : 4664,   period_sum: 252.812057,  block_sum: 57
+           nodeindex : 27,  tps : 18.49,  tx_sum : 4678,   period_sum: 253.024265,  block_sum: 58
+           nodeindex : 29,  tps : 18.62,  tx_sum : 4706,   period_sum: 252.772246,  block_sum: 59
+           nodeindex : 30,  tps : 18.60,  tx_sum : 4705,   period_sum: 252.955426,  block_sum: 59
+           nodeindex : 31,  tps : 18.42,  tx_sum : 4659,   period_sum: 252.866753,  block_sum: 58
+    transantion sent speed : 40， valid keys : 4725  ###############
+           nodeindex : 1,  tps : 23.28,  tx_sum : 1113,   period_sum: 47.811256,  block_sum: 11
+           nodeindex : 2,  tps : 23.06,  tx_sum : 1113,   period_sum: 48.268046,  block_sum: 11
+           nodeindex : 3,  tps : 23.22,  tx_sum : 1113,   period_sum: 47.929761,  block_sum: 11
+           nodeindex : 4,  tps : 22.99,  tx_sum : 1104,   period_sum: 48.029663,  block_sum: 10
+           nodeindex : 5,  tps : 23.12,  tx_sum : 1104,   period_sum: 47.757731,  block_sum: 10
+           nodeindex : 6,  tps : 23.10,  tx_sum : 1104,   period_sum: 47.794645,  block_sum: 10
+           nodeindex : 7,  tps : 23.10,  tx_sum : 1104,   period_sum: 47.786142,  block_sum: 10
+           nodeindex : 8,  tps : 23.22,  tx_sum : 1113,   period_sum: 47.935329,  block_sum: 11
+           nodeindex : 9,  tps : 22.52,  tx_sum : 1096,   period_sum: 48.670063,  block_sum: 9
+           nodeindex : 10,  tps : 23.16,  tx_sum : 2030,   period_sum: 87.666764,  block_sum: 17
+           nodeindex : 11,  tps : 22.99,  tx_sum : 1104,   period_sum: 48.020859,  block_sum: 10
+           nodeindex : 12,  tps : 23.00,  tx_sum : 1104,   period_sum: 47.998495,  block_sum: 10
+           nodeindex : 13,  tps : 23.04,  tx_sum : 1104,   period_sum: 47.910762,  block_sum: 10
+           nodeindex : 14,  tps : 23.01,  tx_sum : 1104,   period_sum: 47.979160,  block_sum: 10
+           nodeindex : 15,  tps : 22.79,  tx_sum : 1113,   period_sum: 48.834917,  block_sum: 11
+           nodeindex : 16,  tps : 23.07,  tx_sum : 1104,   period_sum: 47.864384,  block_sum: 10
+           nodeindex : 17,  tps : 21.84,  tx_sum : 1096,   period_sum: 50.193351,  block_sum: 9
+           nodeindex : 18,  tps : 23.10,  tx_sum : 1105,   period_sum: 47.825480,  block_sum: 10
+           nodeindex : 19,  tps : 23.87,  tx_sum : 2021,   period_sum: 84.655224,  block_sum: 16
+           nodeindex : 20,  tps : 23.09,  tx_sum : 1113,   period_sum: 48.212337,  block_sum: 11
+           nodeindex : 21,  tps : 23.01,  tx_sum : 1104,   period_sum: 47.981160,  block_sum: 10
+           nodeindex : 22,  tps : 23.10,  tx_sum : 1104,   period_sum: 47.798338,  block_sum: 10
+           nodeindex : 23,  tps : 23.05,  tx_sum : 1104,   period_sum: 47.887265,  block_sum: 10
+           nodeindex : 24,  tps : 23.08,  tx_sum : 1113,   period_sum: 48.219689,  block_sum: 11
+           nodeindex : 25,  tps : 22.91,  tx_sum : 1986,   period_sum: 86.679430,  block_sum: 16
+           nodeindex : 26,  tps : 23.10,  tx_sum : 1104,   period_sum: 47.793940,  block_sum: 10
+           nodeindex : 27,  tps : 22.95,  tx_sum : 1104,   period_sum: 48.107728,  block_sum: 10
+           nodeindex : 28,  tps : 23.05,  tx_sum : 1104,   period_sum: 47.888033,  block_sum: 10
+           nodeindex : 29,  tps : 23.06,  tx_sum : 1104,   period_sum: 47.870008,  block_sum: 10
+           nodeindex : 30,  tps : 22.72,  tx_sum : 1104,   period_sum: 48.592498,  block_sum: 10
+           nodeindex : 31,  tps : 21.94,  tx_sum : 1069,   period_sum: 48.723466,  block_sum: 10
+    transantion sent speed : 60， valid keys : 4725
+           nodeindex : 1,  tps : 26.91,  tx_sum : 2339,   period_sum: 86.911692,  block_sum: 16
+           nodeindex : 2,  tps : 25.69,  tx_sum : 2339,   period_sum: 91.038091,  block_sum: 16
+           nodeindex : 3,  tps : 25.94,  tx_sum : 2339,   period_sum: 90.175427,  block_sum: 16
+           nodeindex : 4,  tps : 25.85,  tx_sum : 2339,   period_sum: 90.490901,  block_sum: 16
+           nodeindex : 5,  tps : 26.79,  tx_sum : 2339,   period_sum: 87.303318,  block_sum: 16
+           nodeindex : 6,  tps : 26.79,  tx_sum : 2339,   period_sum: 87.314004,  block_sum: 16
+           nodeindex : 7,  tps : 26.90,  tx_sum : 2339,   period_sum: 86.938888,  block_sum: 16
+           nodeindex : 8,  tps : 26.88,  tx_sum : 2339,   period_sum: 87.019243,  block_sum: 16
+           nodeindex : 9,  tps : 25.43,  tx_sum : 2339,   period_sum: 91.975398,  block_sum: 16
+           nodeindex : 10,  tps : 25.83,  tx_sum : 2339,   period_sum: 90.539908,  block_sum: 16
+           nodeindex : 11,  tps : 25.78,  tx_sum : 2339,   period_sum: 90.729350,  block_sum: 16
+           nodeindex : 12,  tps : 25.82,  tx_sum : 2339,   period_sum: 90.590130,  block_sum: 16
+           nodeindex : 13,  tps : 25.76,  tx_sum : 2339,   period_sum: 90.791094,  block_sum: 16
+           nodeindex : 14,  tps : 26.08,  tx_sum : 2339,   period_sum: 89.699143,  block_sum: 16
+           nodeindex : 15,  tps : 25.64,  tx_sum : 2339,   period_sum: 91.226659,  block_sum: 16
+           nodeindex : 16,  tps : 25.76,  tx_sum : 2339,   period_sum: 90.789447,  block_sum: 16
+           nodeindex : 17,  tps : 25.12,  tx_sum : 2339,   period_sum: 93.107329,  block_sum: 16
+           nodeindex : 18,  tps : 25.92,  tx_sum : 2339,   period_sum: 90.228964,  block_sum: 16
+           nodeindex : 19,  tps : 24.87,  tx_sum : 2339,   period_sum: 94.054778,  block_sum: 16
+           nodeindex : 20,  tps : 25.79,  tx_sum : 2339,   period_sum: 90.696689,  block_sum: 16
+           nodeindex : 21,  tps : 25.32,  tx_sum : 2339,   period_sum: 92.361291,  block_sum: 16
+           nodeindex : 22,  tps : 25.10,  tx_sum : 2339,   period_sum: 93.194615,  block_sum: 16
+           nodeindex : 23,  tps : 25.17,  tx_sum : 2339,   period_sum: 92.918458,  block_sum: 16
+           nodeindex : 24,  tps : 26.91,  tx_sum : 2339,   period_sum: 86.930071,  block_sum: 16
+           nodeindex : 25,  tps : 25.22,  tx_sum : 2339,   period_sum: 92.740855,  block_sum: 16
+           nodeindex : 26,  tps : 26.14,  tx_sum : 2339,   period_sum: 89.469084,  block_sum: 16
+           nodeindex : 27,  tps : 26.46,  tx_sum : 2339,   period_sum: 88.410938,  block_sum: 16
+           nodeindex : 28,  tps : 26.38,  tx_sum : 2339,   period_sum: 88.664769,  block_sum: 16
+           nodeindex : 29,  tps : 25.72,  tx_sum : 2339,   period_sum: 90.955058,  block_sum: 16
+           nodeindex : 30,  tps : 26.40,  tx_sum : 2339,   period_sum: 88.598855,  block_sum: 16
+           nodeindex : 31,  tps : 25.95,  tx_sum : 2339,   period_sum: 90.150963,  block_sum: 16
+    transantion sent speed : 80， valid keys : 4725
+           nodeindex : 1,  tps : 25.98,  tx_sum : 4725,   period_sum: 181.904577,  block_sum: 37
+           nodeindex : 2,  tps : 25.50,  tx_sum : 4725,   period_sum: 185.269903,  block_sum: 37
+           nodeindex : 3,  tps : 25.49,  tx_sum : 4725,   period_sum: 185.393439,  block_sum: 37
+           nodeindex : 4,  tps : 25.23,  tx_sum : 4684,   period_sum: 185.616887,  block_sum: 36
+           nodeindex : 5,  tps : 25.93,  tx_sum : 4717,   period_sum: 181.935807,  block_sum: 36
+           nodeindex : 6,  tps : 25.52,  tx_sum : 4717,   period_sum: 184.867897,  block_sum: 36
+           nodeindex : 7,  tps : 25.69,  tx_sum : 4725,   period_sum: 183.941159,  block_sum: 37
+           nodeindex : 8,  tps : 25.55,  tx_sum : 4717,   period_sum: 184.617889,  block_sum: 36
+           nodeindex : 9,  tps : 25.45,  tx_sum : 4706,   period_sum: 184.906643,  block_sum: 36
+           nodeindex : 11,  tps : 25.59,  tx_sum : 4665,   period_sum: 182.293060,  block_sum: 35
+           nodeindex : 12,  tps : 25.55,  tx_sum : 4683,   period_sum: 183.293203,  block_sum: 35
+           nodeindex : 13,  tps : 25.41,  tx_sum : 4717,   period_sum: 185.644374,  block_sum: 36
+           nodeindex : 14,  tps : 25.89,  tx_sum : 4717,   period_sum: 182.226103,  block_sum: 36
+           nodeindex : 15,  tps : 25.74,  tx_sum : 4688,   period_sum: 182.162747,  block_sum: 34
+           nodeindex : 16,  tps : 25.70,  tx_sum : 4725,   period_sum: 183.840214,  block_sum: 37
+           nodeindex : 17,  tps : 25.74,  tx_sum : 4717,   period_sum: 183.261391,  block_sum: 36
+           nodeindex : 18,  tps : 25.20,  tx_sum : 4665,   period_sum: 185.113656,  block_sum: 35
+           nodeindex : 19,  tps : 25.39,  tx_sum : 4706,   period_sum: 185.372055,  block_sum: 36
+           nodeindex : 20,  tps : 25.97,  tx_sum : 4725,   period_sum: 181.953501,  block_sum: 37
+           nodeindex : 21,  tps : 25.82,  tx_sum : 4725,   period_sum: 183.008001,  block_sum: 37
+           nodeindex : 22,  tps : 25.41,  tx_sum : 4717,   period_sum: 185.624459,  block_sum: 36
+           nodeindex : 23,  tps : 25.64,  tx_sum : 4706,   period_sum: 183.561734,  block_sum: 36
+           nodeindex : 24,  tps : 23.75,  tx_sum : 4402,   period_sum: 185.330320,  block_sum: 36
+           nodeindex : 25,  tps : 22.19,  tx_sum : 1395,   period_sum: 62.860478,  block_sum: 9
+           nodeindex : 26,  tps : 25.90,  tx_sum : 4725,   period_sum: 182.448242,  block_sum: 37
+           nodeindex : 27,  tps : 25.60,  tx_sum : 4706,   period_sum: 183.847882,  block_sum: 36
+           nodeindex : 28,  tps : 25.77,  tx_sum : 4725,   period_sum: 183.384923,  block_sum: 37
+           nodeindex : 29,  tps : 25.53,  tx_sum : 4717,   period_sum: 184.756458,  block_sum: 36
+           nodeindex : 30,  tps : 25.21,  tx_sum : 4690,   period_sum: 186.026927,  block_sum: 34
+           nodeindex : 31,  tps : 25.78,  tx_sum : 4717,   period_sum: 182.988282,  block_sum: 36
+
+
+
+
+
+threshold (40,27)
+    transantion sent speed : 20， valid keys : 4725
+           nodeindex : 1,  tps : 16.22,  tx_sum : 1200,   period_sum: 73.969051,  block_sum: 11
+           nodeindex : 2,  tps : 15.63,  tx_sum : 1200,   period_sum: 76.798047,  block_sum: 11
+           nodeindex : 3,  tps : 16.09,  tx_sum : 1200,   period_sum: 74.565547,  block_sum: 11
+           nodeindex : 4,  tps : 15.42,  tx_sum : 1200,   period_sum: 77.838636,  block_sum: 11
+           nodeindex : 5,  tps : 15.41,  tx_sum : 1200,   period_sum: 77.858348,  block_sum: 11
+           nodeindex : 6,  tps : 16.00,  tx_sum : 1200,   period_sum: 74.987586,  block_sum: 11
+           nodeindex : 7,  tps : 15.79,  tx_sum : 1200,   period_sum: 76.011893,  block_sum: 11
+           nodeindex : 8,  tps : 16.10,  tx_sum : 1200,   period_sum: 74.551544,  block_sum: 11
+           nodeindex : 9,  tps : 15.99,  tx_sum : 1200,   period_sum: 75.043351,  block_sum: 11
+           nodeindex : 10,  tps : 15.76,  tx_sum : 1185,   period_sum: 75.166549,  block_sum: 10
+
+
+
+    transantion sent speed : 40， valid keys : 741
+           nodeindex : 1,  tps : 22.63,  tx_sum : 699,   period_sum: 30.892131,  block_sum: 4
+           nodeindex : 2,  tps : 19.78,  tx_sum : 542,   period_sum: 27.400993,  block_sum: 3
+           nodeindex : 3,  tps : 20.68,  tx_sum : 699,   period_sum: 33.799733,  block_sum: 4
+           nodeindex : 4,  tps : 21.17,  tx_sum : 699,   period_sum: 33.022394,  block_sum: 4
+           nodeindex : 5,  tps : 17.69,  tx_sum : 741,   period_sum: 41.896899,  block_sum: 5
+           nodeindex : 6,  tps : 17.72,  tx_sum : 741,   period_sum: 41.824871,  block_sum: 5
+           nodeindex : 7,  tps : 17.72,  tx_sum : 741,   period_sum: 41.821868,  block_sum: 5
+           nodeindex : 8,  tps : 17.73,  tx_sum : 741,   period_sum: 41.799474,  block_sum: 5
+           nodeindex : 9,  tps : 17.66,  tx_sum : 741,   period_sum: 41.954238,  block_sum: 5
+           nodeindex : 10,  tps : 17.67,  tx_sum : 741,   period_sum: 41.927985,  block_sum: 5
+    transantion sent speed : 60， valid keys : 741
+           nodeindex : 1,  tps : 26.21,  tx_sum : 571,   period_sum: 21.785185,  block_sum: 4
+           nodeindex : 2,  tps : 24.19,  tx_sum : 571,   period_sum: 23.608765,  block_sum: 4
+           nodeindex : 3,  tps : 24.74,  tx_sum : 741,   period_sum: 29.954710,  block_sum: 5
+           nodeindex : 4,  tps : 24.93,  tx_sum : 741,   period_sum: 29.727314,  block_sum: 5
+           nodeindex : 5,  tps : 25.14,  tx_sum : 741,   period_sum: 29.479704,  block_sum: 5
+           nodeindex : 6,  tps : 24.73,  tx_sum : 741,   period_sum: 29.965482,  block_sum: 5
+           nodeindex : 7,  tps : 25.03,  tx_sum : 741,   period_sum: 29.606001,  block_sum: 5
+           nodeindex : 8,  tps : 23.16,  tx_sum : 741,   period_sum: 31.989838,  block_sum: 5
+           nodeindex : 9,  tps : 25.08,  tx_sum : 741,   period_sum: 29.544196,  block_sum: 5
+           nodeindex : 10,  tps : 22.71,  tx_sum : 741,   period_sum: 32.633685,  block_sum: 5
+
+
+
+    transantion sent speed : 60， valid keys : 741
+           nodeindex : 1,  tps : 30.94,  tx_sum : 540,   period_sum: 17.453931,  block_sum: 2
+           nodeindex : 2,  tps : 20.17,  tx_sum : 540,   period_sum: 26.778276,  block_sum: 2
+           nodeindex : 3,  tps : 24.88,  tx_sum : 540,   period_sum: 21.700616,  block_sum: 2
+           nodeindex : 4,  tps : 23.38,  tx_sum : 741,   period_sum: 31.695536,  block_sum: 3
+           nodeindex : 5,  tps : 24.01,  tx_sum : 741,   period_sum: 30.857139,  block_sum: 3
+           nodeindex : 6,  tps : 29.04,  tx_sum : 540,   period_sum: 18.596693,  block_sum: 2
+           nodeindex : 7,  tps : 24.02,  tx_sum : 741,   period_sum: 30.853298,  block_sum: 3
+           nodeindex : 8,  tps : 21.73,  tx_sum : 741,   period_sum: 34.095254,  block_sum: 3
+           nodeindex : 9,  tps : 23.15,  tx_sum : 741,   period_sum: 32.006159,  block_sum: 3
+           nodeindex : 10,  tps : 22.81,  tx_sum : 741,   period_sum: 32.491851,  block_sum: 3
+           nodeindex : 11,  tps : 20.19,  tx_sum : 741,   period_sum: 36.705193,  block_sum: 3
+           nodeindex : 12,  tps : 22.36,  tx_sum : 741,   period_sum: 33.139400,  block_sum: 3
+           nodeindex : 13,  tps : 22.87,  tx_sum : 741,   period_sum: 32.402581,  block_sum: 3
+           nodeindex : 14,  tps : 23.37,  tx_sum : 741,   period_sum: 31.702777,  block_sum: 3
+           nodeindex : 15,  tps : 22.10,  tx_sum : 741,   period_sum: 33.533903,  block_sum: 3
+           nodeindex : 16,  tps : 21.07,  tx_sum : 741,   period_sum: 35.168924,  block_sum: 3
+           nodeindex : 17,  tps : 21.64,  tx_sum : 741,   period_sum: 34.248923,  block_sum: 3
+           nodeindex : 18,  tps : 21.86,  tx_sum : 741,   period_sum: 33.891846,  block_sum: 3
+           nodeindex : 19,  tps : 21.90,  tx_sum : 741,   period_sum: 33.832427,  block_sum: 3
+           nodeindex : 20,  tps : 22.16,  tx_sum : 741,   period_sum: 33.432190,  block_sum: 3
+    transantion sent speed : 80， valid keys : 741
+           nodeindex : 1,  tps : 23.29,  tx_sum : 611,   period_sum: 26.232815,  block_sum: 5
+           nodeindex : 2,  tps : 19.47,  tx_sum : 611,   period_sum: 31.379160,  block_sum: 5
+           nodeindex : 3,  tps : 20.36,  tx_sum : 611,   period_sum: 30.010102,  block_sum: 5
+           nodeindex : 4,  tps : 22.86,  tx_sum : 611,   period_sum: 26.733743,  block_sum: 5
+           nodeindex : 5,  tps : 19.54,  tx_sum : 741,   period_sum: 37.928804,  block_sum: 6
+           nodeindex : 6,  tps : 14.84,  tx_sum : 611,   period_sum: 41.161490,  block_sum: 5
+           nodeindex : 7,  tps : 18.24,  tx_sum : 741,   period_sum: 40.629296,  block_sum: 6
+           nodeindex : 8,  tps : 19.01,  tx_sum : 741,   period_sum: 38.979197,  block_sum: 6
+           nodeindex : 9,  tps : 21.92,  tx_sum : 741,   period_sum: 33.801534,  block_sum: 6
+           nodeindex : 10,  tps : 21.84,  tx_sum : 741,   period_sum: 33.925118,  block_sum: 6
+           nodeindex : 11,  tps : 18.86,  tx_sum : 741,   period_sum: 39.293645,  block_sum: 6
+           nodeindex : 12,  tps : 21.28,  tx_sum : 741,   period_sum: 34.829492,  block_sum: 6
+           nodeindex : 13,  tps : 21.63,  tx_sum : 741,   period_sum: 34.265870,  block_sum: 6
+           nodeindex : 14,  tps : 17.57,  tx_sum : 741,   period_sum: 42.178356,  block_sum: 6
+           nodeindex : 15,  tps : 20.17,  tx_sum : 741,   period_sum: 36.731504,  block_sum: 6
+           nodeindex : 16,  tps : 18.69,  tx_sum : 741,   period_sum: 39.653834,  block_sum: 6
+           nodeindex : 17,  tps : 20.56,  tx_sum : 741,   period_sum: 36.044199,  block_sum: 6
+           nodeindex : 18,  tps : 21.50,  tx_sum : 741,   period_sum: 34.465345,  block_sum: 6
+           nodeindex : 19,  tps : 21.82,  tx_sum : 741,   period_sum: 33.957974,  block_sum: 6
+           nodeindex : 20,  tps : 21.91,  tx_sum : 741,   period_sum: 33.827275,  block_sum: 6
+
+
+
+
+ 
+    transantion sent speed : 100， valid keys : 4725
+           nodeindex : 1,  tps : 24.16,  tx_sum : 2644,   period_sum: 109.421106,  block_sum: 13
+           nodeindex : 2,  tps : 23.56,  tx_sum : 2644,   period_sum: 112.219544,  block_sum: 13
+           nodeindex : 3,  tps : 23.05,  tx_sum : 2644,   period_sum: 114.721927,  block_sum: 13
+           nodeindex : 4,  tps : 21.87,  tx_sum : 2644,   period_sum: 120.911004,  block_sum: 13
+           nodeindex : 5,  tps : 22.42,  tx_sum : 2644,   period_sum: 117.908139,  block_sum: 13
+           nodeindex : 6,  tps : 22.78,  tx_sum : 2644,   period_sum: 116.051559,  block_sum: 13
+           nodeindex : 7,  tps : 22.46,  tx_sum : 2644,   period_sum: 117.738700,  block_sum: 13
+           nodeindex : 8,  tps : 23.46,  tx_sum : 2644,   period_sum: 112.691379,  block_sum: 13
+           nodeindex : 9,  tps : 24.13,  tx_sum : 2644,   period_sum: 109.583449,  block_sum: 13
+           nodeindex : 10,  tps : 21.89,  tx_sum : 2644,   period_sum: 120.809860,  block_sum: 13
+           nodeindex : 11,  tps : 22.59,  tx_sum : 2644,   period_sum: 117.028219,  block_sum: 13
+           nodeindex : 12,  tps : 23.56,  tx_sum : 2644,   period_sum: 112.223365,  block_sum: 13
+           nodeindex : 13,  tps : 24.15,  tx_sum : 2644,   period_sum: 109.478497,  block_sum: 13
+           nodeindex : 14,  tps : 21.76,  tx_sum : 2644,   period_sum: 121.520433,  block_sum: 13
+           nodeindex : 15,  tps : 24.08,  tx_sum : 2644,   period_sum: 109.818861,  block_sum: 13
+           nodeindex : 16,  tps : 22.56,  tx_sum : 2644,   period_sum: 117.178782,  block_sum: 13
+           nodeindex : 17,  tps : 22.82,  tx_sum : 2644,   period_sum: 115.857735,  block_sum: 13
+           nodeindex : 18,  tps : 22.73,  tx_sum : 2644,   period_sum: 116.302516,  block_sum: 13
+           nodeindex : 19,  tps : 22.49,  tx_sum : 2644,   period_sum: 117.553748,  block_sum: 13
+           nodeindex : 20,  tps : 21.87,  tx_sum : 2644,   period_sum: 120.894344,  block_sum: 13
+
+threshold (49,33)
+    transantion sent speed : 20， valid keys : 741
+           nodeindex : 1,  tps : 14.85,  tx_sum : 624,   period_sum: 42.019413,  block_sum: 6
+           nodeindex : 2,  tps : 14.07,  tx_sum : 624,   period_sum: 44.338536,  block_sum: 6
+           nodeindex : 3,  tps : 14.26,  tx_sum : 624,   period_sum: 43.746661,  block_sum: 6
+           nodeindex : 4,  tps : 13.99,  tx_sum : 624,   period_sum: 44.610471,  block_sum: 6
+           nodeindex : 5,  tps : 14.39,  tx_sum : 624,   period_sum: 43.369344,  block_sum: 6
+           nodeindex : 6,  tps : 12.74,  tx_sum : 691,   period_sum: 54.219665,  block_sum: 6
+           nodeindex : 7,  tps : 14.84,  tx_sum : 624,   period_sum: 42.052522,  block_sum: 6
+           nodeindex : 8,  tps : 14.84,  tx_sum : 624,   period_sum: 42.054579,  block_sum: 6
+           nodeindex : 9,  tps : 14.80,  tx_sum : 624,   period_sum: 42.154927,  block_sum: 6
+           nodeindex : 10,  tps : 13.88,  tx_sum : 624,   period_sum: 44.946129,  block_sum: 6
+           nodeindex : 11,  tps : 13.52,  tx_sum : 624,   period_sum: 46.152019,  block_sum: 6
+           nodeindex : 12,  tps : 12.81,  tx_sum : 624,   period_sum: 48.694134,  block_sum: 6
+           nodeindex : 13,  tps : 12.27,  tx_sum : 552,   period_sum: 44.983326,  block_sum: 5
+           nodeindex : 14,  tps : 13.55,  tx_sum : 624,   period_sum: 46.037488,  block_sum: 6
+           nodeindex : 15,  tps : 14.58,  tx_sum : 624,   period_sum: 42.795803,  block_sum: 6
+           nodeindex : 16,  tps : 14.12,  tx_sum : 624,   period_sum: 44.189609,  block_sum: 6
+           nodeindex : 17,  tps : 13.75,  tx_sum : 624,   period_sum: 45.373680,  block_sum: 6
+           nodeindex : 18,  tps : 14.42,  tx_sum : 624,   period_sum: 43.280767,  block_sum: 6
+           nodeindex : 19,  tps : 13.69,  tx_sum : 624,   period_sum: 45.580996,  block_sum: 6
+           nodeindex : 20,  tps : 14.25,  tx_sum : 624,   period_sum: 43.802474,  block_sum: 6
+
+
+    transantion sent speed : 40， valid keys : 741
+           nodeindex : 1,  tps : 16.77,  tx_sum : 434,   period_sum: 25.876723,  block_sum: 3
+           nodeindex : 2,  tps : 14.97,  tx_sum : 434,   period_sum: 28.982813,  block_sum: 3
+           nodeindex : 3,  tps : 16.63,  tx_sum : 617,   period_sum: 37.099475,  block_sum: 4
+           nodeindex : 4,  tps : 13.09,  tx_sum : 434,   period_sum: 33.165165,  block_sum: 3
+           nodeindex : 5,  tps : 18.49,  tx_sum : 741,   period_sum: 40.084323,  block_sum: 5
+           nodeindex : 6,  tps : 17.13,  tx_sum : 741,   period_sum: 43.258949,  block_sum: 5
+           nodeindex : 7,  tps : 14.14,  tx_sum : 434,   period_sum: 30.684276,  block_sum: 3
+           nodeindex : 8,  tps : 17.00,  tx_sum : 741,   period_sum: 43.581910,  block_sum: 5
+           nodeindex : 9,  tps : 17.33,  tx_sum : 741,   period_sum: 42.756768,  block_sum: 5
+           nodeindex : 10,  tps : 14.96,  tx_sum : 741,   period_sum: 49.541237,  block_sum: 5
+           nodeindex : 11,  tps : 16.01,  tx_sum : 741,   period_sum: 46.293840,  block_sum: 5
+           nodeindex : 12,  tps : 12.63,  tx_sum : 741,   period_sum: 58.654697,  block_sum: 5
+           nodeindex : 13,  tps : 16.67,  tx_sum : 434,   period_sum: 26.034836,  block_sum: 3
+           nodeindex : 14,  tps : 16.85,  tx_sum : 741,   period_sum: 43.973240,  block_sum: 5
+           nodeindex : 15,  tps : 17.79,  tx_sum : 741,   period_sum: 41.647832,  block_sum: 5
+           nodeindex : 16,  tps : 18.01,  tx_sum : 741,   period_sum: 41.149466,  block_sum: 5
+           nodeindex : 17,  tps : 15.02,  tx_sum : 741,   period_sum: 49.343657,  block_sum: 5
+           nodeindex : 18,  tps : 17.07,  tx_sum : 741,   period_sum: 43.416691,  block_sum: 5
+           nodeindex : 19,  tps : 18.93,  tx_sum : 741,   period_sum: 39.146178,  block_sum: 5
+           nodeindex : 20,  tps : 15.09,  tx_sum : 741,   period_sum: 49.095076,  block_sum: 5
+
+    transantion sent speed : 60， valid keys : 4725
+           nodeindex : 1,  tps : 15.82,  tx_sum : 1175,   period_sum: 74.259090,  block_sum: 7
+           nodeindex : 2,  tps : 15.41,  tx_sum : 1175,   period_sum: 76.232354,  block_sum: 7
+           nodeindex : 3,  tps : 15.80,  tx_sum : 1175,   period_sum: 74.361481,  block_sum: 7
+           nodeindex : 4,  tps : 15.77,  tx_sum : 1175,   period_sum: 74.524946,  block_sum: 7
+           nodeindex : 5,  tps : 15.15,  tx_sum : 1175,   period_sum: 77.537321,  block_sum: 7
+           nodeindex : 6,  tps : 14.60,  tx_sum : 1175,   period_sum: 80.497998,  block_sum: 7
+           nodeindex : 7,  tps : 15.49,  tx_sum : 1175,   period_sum: 75.878664,  block_sum: 7
+           nodeindex : 8,  tps : 15.43,  tx_sum : 1175,   period_sum: 76.138025,  block_sum: 7
+           nodeindex : 9,  tps : 15.61,  tx_sum : 1175,   period_sum: 75.285009,  block_sum: 7
+           nodeindex : 10,  tps : 15.52,  tx_sum : 1175,   period_sum: 75.717345,  block_sum: 7
+           nodeindex : 11,  tps : 15.71,  tx_sum : 1175,   period_sum: 74.780844,  block_sum: 7
+           nodeindex : 12,  tps : 15.60,  tx_sum : 1175,   period_sum: 75.337329,  block_sum: 7
+           nodeindex : 13,  tps : 15.07,  tx_sum : 1175,   period_sum: 77.983120,  block_sum: 7
+           nodeindex : 14,  tps : 15.79,  tx_sum : 1175,   period_sum: 74.423835,  block_sum: 7
+           nodeindex : 15,  tps : 15.24,  tx_sum : 1175,   period_sum: 77.078087,  block_sum: 7
+           nodeindex : 16,  tps : 14.95,  tx_sum : 1175,   period_sum: 78.575912,  block_sum: 7
+           nodeindex : 17,  tps : 15.26,  tx_sum : 1175,   period_sum: 76.988506,  block_sum: 7
+           nodeindex : 18,  tps : 14.12,  tx_sum : 1175,   period_sum: 83.205613,  block_sum: 7
+           nodeindex : 19,  tps : 15.36,  tx_sum : 1175,   period_sum: 76.508856,  block_sum: 7
+           nodeindex : 20,  tps : 15.58,  tx_sum : 1175,   period_sum: 75.413244,  block_sum: 7
+
+
+threshold (58,39)
+    transantion sent speed : 20， valid keys : 741
+           nodeindex : 1,  tps : 12.69,  tx_sum : 522,   period_sum: 41.139408,  block_sum: 4
+           nodeindex : 2,  tps : 11.62,  tx_sum : 522,   period_sum: 44.928895,  block_sum: 4
+           nodeindex : 3,  tps : 10.80,  tx_sum : 580,   period_sum: 53.705849,  block_sum: 5
+           nodeindex : 4,  tps : 10.82,  tx_sum : 580,   period_sum: 53.582364,  block_sum: 5
+           nodeindex : 5,  tps : 10.83,  tx_sum : 580,   period_sum: 53.573150,  block_sum: 5
+           nodeindex : 6,  tps : 10.84,  tx_sum : 580,   period_sum: 53.502609,  block_sum: 5
+           nodeindex : 7,  tps : 10.80,  tx_sum : 580,   period_sum: 53.712841,  block_sum: 5
+           nodeindex : 8,  tps : 10.79,  tx_sum : 580,   period_sum: 53.746344,  block_sum: 5
+           nodeindex : 9,  tps : 10.77,  tx_sum : 580,   period_sum: 53.829191,  block_sum: 5
+           nodeindex : 10,  tps : 10.97,  tx_sum : 741,   period_sum: 67.563291,  block_sum: 6
+           nodeindex : 11,  tps : 10.93,  tx_sum : 741,   period_sum: 67.778994,  block_sum: 6
+           nodeindex : 12,  tps : 10.82,  tx_sum : 741,   period_sum: 68.476303,  block_sum: 6
+           nodeindex : 13,  tps : 11.11,  tx_sum : 741,   period_sum: 66.678137,  block_sum: 6
+           nodeindex : 14,  tps : 10.45,  tx_sum : 741,   period_sum: 70.900886,  block_sum: 6
+           nodeindex : 15,  tps : 10.32,  tx_sum : 741,   period_sum: 71.786682,  block_sum: 6
+           nodeindex : 16,  tps : 9.27,  tx_sum : 741,   period_sum: 79.897988,  block_sum: 6
+           nodeindex : 17,  tps : 10.53,  tx_sum : 741,   period_sum: 70.343606,  block_sum: 6
+           nodeindex : 18,  tps : 10.88,  tx_sum : 741,   period_sum: 68.083899,  block_sum: 6
+           nodeindex : 19,  tps : 9.20,  tx_sum : 741,   period_sum: 80.582150,  block_sum: 6
+           nodeindex : 20,  tps : 10.86,  tx_sum : 741,   period_sum: 68.236490,  block_sum: 6
+
+
